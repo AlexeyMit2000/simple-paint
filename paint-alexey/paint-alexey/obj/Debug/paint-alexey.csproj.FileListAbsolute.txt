@@ -1,0 +1,10 @@
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\bin\Debug\paint-alexey.exe.config
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\bin\Debug\paint-alexey.exe
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\bin\Debug\paint-alexey.pdb
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint-alexey.csprojAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint_alexey.Form1.resources
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint_alexey.Properties.Resources.resources
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint-alexey.csproj.GenerateResource.cache
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint-alexey.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint-alexey.exe
+C:\Users\Gigabyte\source\repos\paint-alexey\paint-alexey\obj\Debug\paint-alexey.pdb
